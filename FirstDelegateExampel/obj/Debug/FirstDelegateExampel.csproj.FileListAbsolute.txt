@@ -1,0 +1,2 @@
+F:\Fifth Semester\GUI DEVELOPMENT\FirstDelegateExampel\FirstDelegateExampel\obj\Debug\FirstDelegateExampel.csprojResolveAssemblyReference.cache
+F:\Fifth Semester\GUI DEVELOPMENT\FirstDelegateExampel\FirstDelegateExampel\bin\Debug\FirstDelegateExampel.exe.config
